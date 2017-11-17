@@ -2,6 +2,8 @@
 ## 定义
 **纳什均衡**，Nash equilibrium，又称为非合作博弈均衡，是博弈论的一个重要术语，以约翰·纳什命名。纳什均衡是一种策略组合，使得同一时间内每个参与人的策略是对其他参与人策略的最优反应。**纳什均衡，从实质上说，是一种非合作博弈状态。**  
 所谓纳什均衡，指的是参与人的这样一种策略组合，在该策略组合上，任何参与人单独改变策略都不会得到好处。换句话说，如果在一个策略组合上，当所有其他人都不改变策略时，没有人会改变自己的策略，则该策略组合就是一个纳什均衡。
+
+
 # 演化博弈论
 ## 定义  
 **Wiki**：Evolutionary game theory (EGT) is the application of game theory to evolving populations in biology.  
@@ -21,6 +23,11 @@
    演化博弈论摒弃了完全理性的假设 以达尔文生物进化论和拉马克的遗传基因理论为思想基础，从系统论出发，把群体行为的调整过程看作为一个动态系统，在其中每个个体的行为及其与群体之间的关系得到了单独的刻画，可以把从个人行为到群体行为的形成机制以及其中涉及到的各种因素都纳入到演化博弈模型中去，构成一个具微观基础的宏观模型，因此能够更真实地反映行为主体的多样性和复杂性，并且可以为宏观调控群体行为提供理论依据。  
    在演化博弈论中，行为主体被假设为程序化地采用某一既定行为，它对于经济规律或某种成功的行为规则、行为策略的认识是在演化的过程中得到不断的修正和改进的，成功的策略被模仿，进而产生出一些一般的“规则”和“制度”作为行为主体的行动标准。在这些一般的规则下，行为主体获得“满意”的收益。 
    行为主体在演化过程中不断修正和改进自己的行为，模成功的策略等等，都需要一个相对较长的时间。演化博弈论认为，时间是不可逆的，过去时间内的状态与未来时间的状态是不对称的，因而，行为主体状态的演化跟初始的时间状态息息相关。在演化博弈模型中，随机(突变)因素起着关键的作用，演化过程常被看成是一种试错的过程。行为人会尝试各种不同的行为策略，并且每一次都将发生部分替代。
+   
+
+# 社交困境（Social dilemmas）
+**Wiki**: A social dilemma is a situation in which an individual profits from selfishness unless everyone chooses the selfish alternative, in which case the whole group loses.  （而囚徒困境就是社交困境的典型例子）
+Problems arise when too many group members choose to pursue individual profit and immediate satisfaction rather than behave in the group’s best long-term interests.
  
 
 
