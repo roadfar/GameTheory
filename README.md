@@ -35,7 +35,13 @@ Problems arise when too many group members choose to pursue individual profit an
 
 (2) 文献[2]的实验分析显示，从事于合作任务的被试者并不是因为策略原因，而是因为情感动机才进行合作的。换句话说，他们并不将惩罚视作提高合作水平的策略，而是将之视为对于公平关心的情感表达。  
 
-[3] 文献[3]在公共品博弈实验中引入反惩罚机制，并比较了自愿供给机制、[1]的惩罚机制和反惩罚机制所带来的效率。反惩罚机制几乎与惩罚机制一样，仅仅多了一个阶段（如第三阶段），在这一阶段，所有被惩罚者可能会报复那些在第二阶段惩罚他们的被试者。由于存在报复或者说反惩罚的威胁，惩罚搭便车者的意愿随之降低。结果，反惩罚机制破坏了公共品博弈中促进合作提升的制裁机制的效力
+(3) 文献[3]在公共品博弈实验中引入反惩罚机制，并比较了自愿供给机制、[1]的惩罚机制和反惩罚机制所带来的效率。反惩罚机制几乎与惩罚机制一样，仅仅多了一个阶段（如第三阶段），在这一阶段，所有被惩罚者可能会报复那些在第二阶段惩罚他们的被试者。由于存在报复或者说反惩罚的威胁，惩罚搭便车者的意愿随之降低。结果，反惩罚机制破坏了公共品博弈中促进合作提升的制裁机制的效力
+
+(4) 文献[6]的田野实验比较了世界范围内１６个带有反惩罚机制的公共物品投资项目，研究发现反社会惩罚强大到足以破坏内部激励制度所产生的合作增强效应。并且，研究将反惩罚行为与公民合作规范、法律系统脆弱性联系起来。  
+
+(5) 由于所谓的“挤出（ｃｒｏｗｄｉｎｇｏｕｔ）”效应使得货币惩罚的效力变得更加模糊。③如果忽视“隐藏成本”，惩罚机制的效力可能会被高估。因此，施行货币激励有时可能对合作和信任带来负面影响[4]. 相反，道义上的规劝作为一种非货币激励的形式的表现却不会比惩罚差[5].
+
+**近年来开始出现了一股新的潮流，即允许激励制度安排的民主式参与。与大多数类似[1]形式的研究所采取由实验者外部施加惩罚机制不同，内部的制度设置允许被试者自己选择他们所偏好的激励机制。**
 
 
 # 参考文献
@@ -44,4 +50,9 @@ Problems arise when too many group members choose to pursue individual profit an
 [2] Casari M, Luini L. Peer punishment in teams: expressive or instrumental choice?[J]. Experimental Economics, 2012,  
     15(2):241-259.  
 [3] Nikiforakis N. Punishment and Counter-Punishment in Public Good Games: Can We Really Govern Ourselves?[J]. Journal of 
-    Public Economics, 2008: 91-112.
+    Public Economics, 2008: 91-112.  
+[4] Bowles S, Hwang S H. Social Preferences and Public Economics: Mechanism design when social preferences depend on    
+    incentives[J]. Journal of Public Economics, 2008, 92(8):1811-1820.  
+[5] Masclet D, Noussair C, Tucker S, et al. Monetary and Nonmonetary Punishment in the Voluntary Contributions Mechanism[J].  
+    American Economic Review, 2003, 93(1):366-380.  
+[6] Herrmann B, Thöni C, Gächter S. Antisocial Punishment across Societies[J]. Science, 2008, 319(5868):1362-7.
