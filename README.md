@@ -29,6 +29,19 @@
 **Wiki**: A social dilemma is a situation in which an individual profits from selfishness unless everyone chooses the selfish alternative, in which case the whole group loses.  （而囚徒困境就是社交困境的典型例子）
 Problems arise when too many group members choose to pursue individual profit and immediate satisfaction rather than behave in the group’s best long-term interests.
  
+# 公共品博弈
+## 经典文献阅读
+(1) 文献[1]研究了对搭便车者的货币惩罚。其中，博弈的每一期包含两个阶段：第一阶段，被试者同时在私人账户和公共账户间分配自己的禀赋，然后获取收益和组群内每一个其他被试者供给水平的信息反馈；第二阶段，所有被试者决定对于其他被试者有成本的惩罚。在第二期，惩罚别人则为非理性，如在理性假设下惩罚威胁的不可置信。根据逆向归纳法，对于每一个参与者来说，子博弈精炼均衡依然为０。然而，结果显示惩罚可能性的存在提高了公共品的平均供给水平，并且无论惩罚引入的顺序或者固定组群效应，或者博弈中的随机匹配，惩罚均可以显著提高公共品供给的合作水平，而且具有稳健性。  
+
+(2) 文献[2]的实验分析显示，从事于合作任务的被试者并不是因为策略原因，而是因为情感动机才进行合作的。换句话说，他们并不将惩罚视作提高合作水平的策略，而是将之视为对于公平关心的情感表达。  
+
+[3] 文献[3]在公共品博弈实验中引入反惩罚机制，并比较了自愿供给机制、[1]的惩罚机制和反惩罚机制所带来的效率。反惩罚机制几乎与惩罚机制一样，仅仅多了一个阶段（如第三阶段），在这一阶段，所有被惩罚者可能会报复那些在第二阶段惩罚他们的被试者。由于存在报复或者说反惩罚的威胁，惩罚搭便车者的意愿随之降低。结果，反惩罚机制破坏了公共品博弈中促进合作提升的制裁机制的效力
 
 
-   
+# 参考文献
+[1] Fehr E, Gachter S. Cooperation and punishment in public goods experiments[J]. Social Science Electronic Publishing, 1999,   
+    90(90):980-994.  
+[2] Casari M, Luini L. Peer punishment in teams: expressive or instrumental choice?[J]. Experimental Economics, 2012,  
+    15(2):241-259.  
+[3] Nikiforakis N. Punishment and Counter-Punishment in Public Good Games: Can We Really Govern Ourselves?[J]. Journal of 
+    Public Economics, 2008: 91-112.
