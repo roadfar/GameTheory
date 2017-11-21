@@ -44,6 +44,7 @@ a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
 - 利他惩罚往往是解决公共品自愿合作行为脆弱性的一种有效机制[7].这里文献[1]是此类研究的经典之作。
 ### 领导机制
 - 条件合作者的行为依赖于被试对其他人贡献水平的信念，可是，在同时行动的公共品博弈中，这种来自信念的不确定以及一些被试的悲观信念会造成公共品自愿供给不足。学者们通过在公共品博弈的贡献决策阶段引入**领导机制**来解决由于被试的信念而导致的合作问题。在序贯公共品博弈中，追随者往往把自己的贡献决策建立在领导者的合作水平上。在领导者具有信息优势的情况下，追随者往往从领导者的贡献决策中推断信息，这可以诱发出追随者的互惠型或条件合作型行为，从而导致群体合作水平的显著提高。这类典型的研究有[8][9][10]
+- **外生性领导机制：一般由实验者指定或者由具有信息优势的一方扮演领导者角色。在领导者与追随者之间存在信息不对称的背景下，研究表明领导者通过榜样或者牺牲自己的利益可以积极地影响追随者的合作行为**，这类经典的研究是[11]。文献[12]认为在理论上在不完全信息的序贯公共品博弈实验中，领导者贡献行为有可能起到了**信号传递的功能，从而带动了追随者的贡献行为，并且提高了群体的合作水平**。一方面也有可能是因为追随者是互惠型且模仿追随者的行为才引起了上述行为，所以他们设计了一个实验，分别在不完全信息条件下和完全信息条件下，同时实验分别采用序贯博弈方法和同时博弈方法，**信息优势的领导者以自己的贡献行为作为信号来协调与更新追随者的信念，促使80％的追随者模仿领导者行为。二是领导者在做贡献决策时已经预期到追随者的条件合作型行为**
 
 
 ## 经典文献阅读
@@ -70,14 +71,17 @@ a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
 [3] Nikiforakis N. Punishment and Counter-Punishment in Public Good Games: Can We Really Govern Ourselves?[J]. Journal of 
     Public Economics, 2008: 91-112.  
 [4] Bowles S, Hwang S H. Social Preferences and Public Economics: Mechanism design when social preferences depend on    
-    incentives[J]. Journal of Public Economics, 2008, 92(8):1811-1820.  
+    incentives[J]. Journal of Public Economics, 2008, 92(8):1811-1820.  
 [5] Masclet D, Noussair C, Tucker S, et al. Monetary and Nonmonetary Punishment in the Voluntary Contributions Mechanism[J].  
-    American Economic Review, 2003, 93(1):366-380.  
-[6] Herrmann B, Thöni C, Gächter S. Antisocial Punishment across Societies[J]. Science, 2008, 319(5868):1362-7.  
+    American Economic Review, 2003, 93(1):366-380.  
+[6] Herrmann B, Thöni C, Gächter S. Antisocial Punishment across Societies[J]. Science, 2008, 319(5868):1362-7.  
 [7] Chaudhuri A. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature[J].  
     Experimental Economics, 2011, 14(1):47-83.  
 [8] Potters J, Sefton M, Vesterlund L. Leading-by-example and signaling in voluntary contribution games: an experimental 
-    study[J]. Economic Theory, 2007, 33(1):169-182.  
-[9] Gächter S, Renner E, Sefton M. The long-run benefits of punishment.[J]. Science, 2008, 322(5907):1510.  
+    study[J]. Economic Theory, 2007, 33(1):169-182. 
+[9] Gächter S, Renner E, Sefton M. The long-run benefits of punishment.[J]. Science, 2008, 322(5907):1510   
 [10] Rivas M F, Sutter M. The benefits of voluntary leadership in experimental public goods games[J]. Economics Letters, 2011, 
-    112(2):176-178.
+    112(2):176-178.  
+[11] Hermalin B E. Toward an economic theory of leadership: Leading by example[J]. Working Papers, 1998, 88(5):1188-1206.  
+[12] Potters J, Sefton M, Vesterlund L. Leading-by-example and signaling in voluntary contribution games: an experimental 
+    study[J]. Economic Theory, 2007, 33(1):169-182.
