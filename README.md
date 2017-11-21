@@ -28,8 +28,24 @@
 # 社交困境（Social dilemmas）
 **Wiki**: A social dilemma is a situation in which an individual profits from selfishness unless everyone chooses the selfish alternative, in which case the whole group loses.  （而囚徒困境就是社交困境的典型例子）
 Problems arise when too many group members choose to pursue individual profit and immediate satisfaction rather than behave in the group’s best long-term interests.
- 
+
+# 田野调查法
+**百度百科**：科学的人类学田野调查方法，是由英国功能学派的代表人物马林诺夫斯基（Bronisław Kasper Malinowski）奠定的，在我国这方面卓有成绩的是著名社会学家费孝通先生。其最重要的研究手段之一就是参与观察。它要求调查者要与被调查对象共同生活一段时间，从中观察、了解和认识他们的社会与文化。田野调查工作的理想状态是调查者在被调查地居住两年以上，并精通被调查者的语言，这样才有利于对被调查者文化的深入研究和解释。传统的田野调查方法花费时间和精力，花费的成本较高，另一方面，如果方法运用有不得当的地方，那么其信度和效度也会大打折扣。
+## 研究阶段
+田野调查可分为五个阶段：准备阶段、开始阶段、调查阶段、撰写调查研究报告阶段、补充调查阶段。这里仅前三个阶段作一说明。  
+
 # 公共品博弈
+## 公共品博弈的脆弱性
+人们的自愿合作行为具有**脆弱性**的特征。这种“脆弱性”是随着实验的重复进行，公共品自愿合作水平会逐渐下降。。这种现象也被称为公共品投资额或合作水平的“期数效应”，即随着期数的增加，人们的自愿合作水平会呈现下降的趋势，即使是在单期重复甚至被试随机匹配的情况下，这种期数效应也显著存在。并且越接近博弈的后期，人们的自愿合作水平越接近于经济人假设的零水平状态，即搭便车行为侵入并占据主导优势。(Moxnes and Heijden，2003，Potters et a1．2005，Gath et
+a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
+
+## 公共品博弈机理机制
+### 惩罚机制
+- 利他惩罚往往是解决公共品自愿合作行为脆弱性的一种有效机制[7].这里文献[1]是此类研究的经典之作。
+### 领导机制
+- 条件合作者的行为依赖于被试对其他人贡献水平的信念，可是，在同时行动的公共品博弈中，这种来自信念的不确定以及一些被试的悲观信念会造成公共品自愿供给不足。学者们通过在公共品博弈的贡献决策阶段引入**领导机制**来解决由于被试的信念而导致的合作问题。在序贯公共品博弈中，追随者往往把自己的贡献决策建立在领导者的合作水平上。在领导者具有信息优势的情况下，追随者往往从领导者的贡献决策中推断信息，这可以诱发出追随者的互惠型或条件合作型行为，从而导致群体合作水平的显著提高。这类典型的研究有[8][9][10]
+
+
 ## 经典文献阅读
 (1) 文献[1]研究了对搭便车者的货币惩罚。其中，博弈的每一期包含两个阶段：第一阶段，被试者同时在私人账户和公共账户间分配自己的禀赋，然后获取收益和组群内每一个其他被试者供给水平的信息反馈；第二阶段，所有被试者决定对于其他被试者有成本的惩罚。在第二期，惩罚别人则为非理性，如在理性假设下惩罚威胁的不可置信。根据逆向归纳法，对于每一个参与者来说，子博弈精炼均衡依然为０。然而，结果显示惩罚可能性的存在提高了公共品的平均供给水平，并且无论惩罚引入的顺序或者固定组群效应，或者博弈中的随机匹配，惩罚均可以显著提高公共品供给的合作水平，而且具有稳健性。  
 
@@ -39,7 +55,9 @@ Problems arise when too many group members choose to pursue individual profit an
 
 (4) 文献[6]的田野实验比较了世界范围内１６个带有反惩罚机制的公共物品投资项目，研究发现反社会惩罚强大到足以破坏内部激励制度所产生的合作增强效应。并且，研究将反惩罚行为与公民合作规范、法律系统脆弱性联系起来。  
 
-(5) 由于所谓的“挤出（ｃｒｏｗｄｉｎｇｏｕｔ）”效应使得货币惩罚的效力变得更加模糊。③如果忽视“隐藏成本”，惩罚机制的效力可能会被高估。因此，施行货币激励有时可能对合作和信任带来负面影响[4]. 相反，道义上的规劝作为一种非货币激励的形式的表现却不会比惩罚差[5].
+(5) 由于所谓的“挤出（ｃｒｏｗｄｉｎｇｏｕｔ）”效应使得货币惩罚的效力变得更加模糊。③如果忽视“隐藏成本”，惩罚机制的效力可能会被高估。因此，施行货币激励有时可能对合作和信任带来负面影响[4]. 相反，道义上的规劝作为一种非货币激励的形式的表现却不会比惩罚差[5].  
+
+(6) 文献[7]对1995年之后的大量后续公共品博弈实验研究进行了新的梳理，并进而总结和揭示了关于人类公共品供给问题中另外两个具有代表『生的基本规律，即群体中条件合作者的存在是人们形成自愿合作的基础，而利他惩罚能有效解决人类合作的脆弱性问题
 
 **近年来开始出现了一股新的潮流，即允许激励制度安排的民主式参与。与大多数类似[1]形式的研究所采取由实验者外部施加惩罚机制不同，内部的制度设置允许被试者自己选择他们所偏好的激励机制。**
 
@@ -55,4 +73,11 @@ Problems arise when too many group members choose to pursue individual profit an
     incentives[J]. Journal of Public Economics, 2008, 92(8):1811-1820.  
 [5] Masclet D, Noussair C, Tucker S, et al. Monetary and Nonmonetary Punishment in the Voluntary Contributions Mechanism[J].  
     American Economic Review, 2003, 93(1):366-380.  
-[6] Herrmann B, Thöni C, Gächter S. Antisocial Punishment across Societies[J]. Science, 2008, 319(5868):1362-7.
+[6] Herrmann B, Thöni C, Gächter S. Antisocial Punishment across Societies[J]. Science, 2008, 319(5868):1362-7.  
+[7] Chaudhuri A. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature[J].  
+    Experimental Economics, 2011, 14(1):47-83.  
+[8] Potters J, Sefton M, Vesterlund L. Leading-by-example and signaling in voluntary contribution games: an experimental 
+    study[J]. Economic Theory, 2007, 33(1):169-182.  
+[9] Gächter S, Renner E, Sefton M. The long-run benefits of punishment.[J]. Science, 2008, 322(5907):1510.  
+[10] Rivas M F, Sutter M. The benefits of voluntary leadership in experimental public goods games[J]. Economics Letters, 2011, 
+    112(2):176-178.
