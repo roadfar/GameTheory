@@ -36,8 +36,7 @@ Problems arise when too many group members choose to pursue individual profit an
 
 # 公共品博弈
 ## 公共品博弈的脆弱性
-人们的自愿合作行为具有**脆弱性**的特征。这种“脆弱性”是随着实验的重复进行，公共品自愿合作水平会逐渐下降。。这种现象也被称为公共品投资额或合作水平的“期数效应”，即随着期数的增加，人们的自愿合作水平会呈现下降的趋势，即使是在单期重复甚至被试随机匹配的情况下，这种期数效应也显著存在。并且越接近博弈的后期，人们的自愿合作水平越接近于经济人假设的零水平状态，即搭便车行为侵入并占据主导优势。(Moxnes and Heijden，2003，Potters et a1．2005，Gath et
-a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
+人们的自愿合作行为具有**脆弱性**的特征。这种“脆弱性”是随着实验的重复进行，公共品自愿合作水平会逐渐下降。。这种现象也被称为公共品投资额或合作水平的“期数效应”，即随着期数的增加，人们的自愿合作水平会呈现下降的趋势，即使是在单期重复甚至被试随机匹配的情况下，这种期数效应也显著存在。并且越接近博弈的后期，人们的自愿合作水平越接近于经济人假设的零水平状态，即搭便车行为侵入并占据主导优势。
 
 ## 公共品博弈机理机制
 ### 惩罚机制
@@ -45,7 +44,17 @@ a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
 ### 领导机制
 - 条件合作者的行为依赖于被试对其他人贡献水平的信念，可是，在同时行动的公共品博弈中，这种来自信念的不确定以及一些被试的悲观信念会造成公共品自愿供给不足。学者们通过在公共品博弈的贡献决策阶段引入**领导机制**来解决由于被试的信念而导致的合作问题。在序贯公共品博弈中，追随者往往把自己的贡献决策建立在领导者的合作水平上。在领导者具有信息优势的情况下，追随者往往从领导者的贡献决策中推断信息，这可以诱发出追随者的互惠型或条件合作型行为，从而导致群体合作水平的显著提高。这类典型的研究有[8][9][10]
 - **外生性领导机制：一般由实验者指定或者由具有信息优势的一方扮演领导者角色。在领导者与追随者之间存在信息不对称的背景下，研究表明领导者通过榜样或者牺牲自己的利益可以积极地影响追随者的合作行为**，这类经典的研究是[11]。文献[12]认为在理论上在不完全信息的序贯公共品博弈实验中，领导者贡献行为有可能起到了**信号传递的功能，从而带动了追随者的贡献行为，并且提高了群体的合作水平**。一方面也有可能是因为追随者是互惠型且模仿追随者的行为才引起了上述行为，所以他们设计了一个实验，分别在不完全信息条件下和完全信息条件下，同时实验分别采用序贯博弈方法和同时博弈方法，**信息优势的领导者以自己的贡献行为作为信号来协调与更新追随者的信念，促使80％的追随者模仿领导者行为。二是领导者在做贡献决策时已经预期到追随者的条件合作型行为**
-
+- 领导者的贡献水平影响着群体的合作水平，可是，领导者的贡献水平也不总是高合作型的，有些领导者贡献水平很低，这使得群体的公共品供给水平也很低，而另外一些领导者的贡献水平比较高，使得群体的公共品供给水平也比较高。
+文献[13]认为不同领导者的贡献水平差异在很大程度上可以
+由领导者的合作类型差异做出解释，在互惠型领导
+者的领导下群体的合作水平更高。
+- 内生性领导机制：。内生性主要体现在实验的博弈顺序结构(序贯还是同时)由被试投票与一致通过规则决定。文献[14]试图解答三个方面的问题。一是领导者榜样作用对于VCM中的贡献率以及领导者的权力对于领导者榜样作用在VCM中的影响是怎样的；二是如果领导者是固定或者轮流，对于其在VCM中的贡献率是否有影响；三是如果领导者是内生产生的，又会是什么情况。发现领导者的榜样
+对于公共品的供给具有积极的影响，并且在领导者
+具有开除群体成员的惩罚权力时，群体内部公共品
+供给水平显著提高。在两种外生的领导任命方式的
+实验中，公共品的供给水平没有显著的差异。实验
+发现，40％的群体通过投票成功的产生了领导，在公共品供给水平方面，有领导的群体显著高于没有
+领导的群体
 
 ## 经典文献阅读
 (1) 文献[1]研究了对搭便车者的货币惩罚。其中，博弈的每一期包含两个阶段：第一阶段，被试者同时在私人账户和公共账户间分配自己的禀赋，然后获取收益和组群内每一个其他被试者供给水平的信息反馈；第二阶段，所有被试者决定对于其他被试者有成本的惩罚。在第二期，惩罚别人则为非理性，如在理性假设下惩罚威胁的不可置信。根据逆向归纳法，对于每一个参与者来说，子博弈精炼均衡依然为０。然而，结果显示惩罚可能性的存在提高了公共品的平均供给水平，并且无论惩罚引入的顺序或者固定组群效应，或者博弈中的随机匹配，惩罚均可以显著提高公共品供给的合作水平，而且具有稳健性。  
@@ -69,7 +78,7 @@ a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
 [2] Casari M, Luini L. Peer punishment in teams: expressive or instrumental choice?[J]. Experimental Economics, 2012,  
     15(2):241-259.  
 [3] Nikiforakis N. Punishment and Counter-Punishment in Public Good Games: Can We Really Govern Ourselves?[J]. Journal of 
-    Public Economics, 2008: 91-112.  
+    Public Economics, 2008: 91-112.  
 [4] Bowles S, Hwang S H. Social Preferences and Public Economics: Mechanism design when social preferences depend on    
     incentives[J]. Journal of Public Economics, 2008, 92(8):1811-1820.  
 [5] Masclet D, Noussair C, Tucker S, et al. Monetary and Nonmonetary Punishment in the Voluntary Contributions Mechanism[J].  
@@ -78,10 +87,11 @@ a1．，2007，Gaehter,et al 2010，Rivas and Sutter，2011)。
 [7] Chaudhuri A. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature[J].  
     Experimental Economics, 2011, 14(1):47-83.  
 [8] Potters J, Sefton M, Vesterlund L. Leading-by-example and signaling in voluntary contribution games: an experimental 
-    study[J]. Economic Theory, 2007, 33(1):169-182. 
-[9] Gächter S, Renner E, Sefton M. The long-run benefits of punishment.[J]. Science, 2008, 322(5907):1510   
+    study[J]. Economic Theory, 2007, 33(1):169-182.  
+[9] Gächter S, Renner E, Sefton M. The long-run benefits of punishment.[J]. Science, 2008, 322(5907):1510.  
 [10] Rivas M F, Sutter M. The benefits of voluntary leadership in experimental public goods games[J]. Economics Letters, 2011, 
     112(2):176-178.  
-[11] Hermalin B E. Toward an economic theory of leadership: Leading by example[J]. Working Papers, 1998, 88(5):1188-1206.  
-[12] Potters J, Sefton M, Vesterlund L. Leading-by-example and signaling in voluntary contribution games: an experimental 
-    study[J]. Economic Theory, 2007, 33(1):169-182.
+[11] Hermalin B E. Toward an economic theory of leadership: Leading by example[J]. Working Papers, 1998, 88(5):1188-1206.  
+[12] Potters J, Sefton M, Vesterlund L. Leading-by-example and signaling in voluntary contribution games: an experimental study[J]. Economic Theory, 2007, 33(1):169-182.  
+[13] Gächter S, Nosenzo D, Renner E, et al. WHO MAKES A GOOD LEADER? COOPERATIVENESS, OPTIMISM, AND LEADING‐BY‐EXAMPLE[J]. Economic Inquiry, 2012, 50(4):953-967.  
+[14] Güth W, Levati M V, Sutter M, et al. Leading by example with and without exclusion power in voluntary contribution experiments ☆[J]. Journal of Public Economics, 2006, 91(5):1023-1042.
